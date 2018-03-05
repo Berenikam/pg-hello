@@ -20,3 +20,6 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+function showDane(){
+alert("Berenika Mazan UEK");
+}
