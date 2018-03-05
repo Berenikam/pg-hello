@@ -21,5 +21,5 @@ function deviceInfo() {
 	
 }
 function showDane(){
-alert("Berenika Mazan UEK");
+alert("Berenika Mazan UEK \n Kamil Maj");
 }
